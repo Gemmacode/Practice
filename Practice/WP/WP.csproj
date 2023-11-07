@@ -11,4 +11,10 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Model\WPModel.csproj" />
+    <ProjectReference Include="..\WPCore\WPCore.csproj" />
+    <ProjectReference Include="..\WPData\WPData.csproj" />
+  </ItemGroup>
+
 </Project>

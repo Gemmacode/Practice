@@ -4,11 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WPModel.Enum
+namespace WPModel.Entities
 {
-    public enum UserType
+    internal class User
     {
-        Customer,
-        Admin
     }
 }

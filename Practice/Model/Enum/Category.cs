@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace WPModel.Enum
 {
-    internal class Category
+    public enum Category
     {
+        Fruits,
+        Vegetables,
+        Diary,
+        Meat,
+        Snacks,
+        Beverages
+
     }
 }

@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace WPModel.Enum
 {
-    internal class OrderStatus
+    public enum OrderStatus
     {
+        Pending,
+        Confirmed,
+        Shipped,
+        Delivered,
+        Canceled
     }
 }

@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace WPModel.Enum
 {
-    internal class PaymentMethod
+    public enum PaymentMethod
     {
+        CreditCard,
+        CashOnDelivery,
+        Other
     }
 }
