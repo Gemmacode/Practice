@@ -7,9 +7,8 @@ using WPModel.Enum;
 
 namespace WPModel.Entities
 {
-    public class Order
+    public class Order : BaseEntity
     {
-        public int OrderId { get; set; }
         public List<Product> Products { get; set; }
         public OrderStatus Status { get; set; }
         public decimal TotalAmount { get; set; }
