@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\Practice\WPData\bin\Debug\net7.0\WPData.deps.json
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\Practice\WPData\bin\Debug\net7.0\WPData.runtimeconfig.json
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\Practice\WPData\bin\Debug\net7.0\WPData.dll
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\Practice\WPData\bin\Debug\net7.0\WPData.pdb
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\Practice\WPData\bin\Debug\net7.0\WPModel.dll
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\Practice\WPData\bin\Debug\net7.0\WPModel.pdb
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\Practice\WPData\obj\Debug\net7.0\WPData.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\Practice\WPData\obj\Debug\net7.0\WPData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\Practice\WPData\obj\Debug\net7.0\WPData.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\Practice\WPData\obj\Debug\net7.0\WPData.AssemblyInfo.cs
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\Practice\WPData\obj\Debug\net7.0\WPData.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\Practice\WPData\obj\Debug\net7.0\WPData.csproj.CopyComplete
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\Practice\WPData\obj\Debug\net7.0\WPData.dll
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\Practice\WPData\obj\Debug\net7.0\refint\WPData.dll
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\Practice\WPData\obj\Debug\net7.0\WPData.pdb
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\Practice\WPData\obj\Debug\net7.0\WPData.genruntimeconfig.cache
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\Practice\WPData\obj\Debug\net7.0\ref\WPData.dll

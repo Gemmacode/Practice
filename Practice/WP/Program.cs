@@ -1,4 +1,13 @@
+using Microsoft.EntityFrameworkCore;
+using WPData.WBContext;
+
 var builder = WebApplication.CreateBuilder(args);
+
+
+
+
+builder.Services.AddDbContext<MyDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("conn")));
 
 
 // Add services to the container.
@@ -8,6 +17,8 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+
+   
 
 var app = builder.Build();
 
