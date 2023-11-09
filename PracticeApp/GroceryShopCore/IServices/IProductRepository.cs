@@ -1,4 +1,5 @@
 ﻿using GroceryShopData.DTO;
+using GroceryShopDomain.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,8 +12,8 @@ namespace GroceryShopCore.IServices
     {
         void CreateProduct(ProductDTO ProductDTO);
         string GetProductById(string Id);
-        string GetAllProduct();
-        string UpdateProduct(ProductDTO ProductDTO);
+        List<Product> GetAllProduct();
+        Product UpdateProduct(string productId, ProductDTO ProductDTO);
         void DeleteProduct(string userId);
     }
 }
