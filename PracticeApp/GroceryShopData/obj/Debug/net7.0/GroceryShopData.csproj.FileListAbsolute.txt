@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\PracticeApp\GroceryShopData\bin\Debug\net7.0\GroceryShopData.deps.json
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\PracticeApp\GroceryShopData\bin\Debug\net7.0\GroceryShopData.runtimeconfig.json
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\PracticeApp\GroceryShopData\bin\Debug\net7.0\GroceryShopData.dll
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\PracticeApp\GroceryShopData\bin\Debug\net7.0\GroceryShopData.pdb
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\PracticeApp\GroceryShopData\bin\Debug\net7.0\GroceryShopDomain.dll
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\PracticeApp\GroceryShopData\bin\Debug\net7.0\GroceryShopDomain.pdb
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\PracticeApp\GroceryShopData\obj\Debug\net7.0\GroceryShopData.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\PracticeApp\GroceryShopData\obj\Debug\net7.0\GroceryShopData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\PracticeApp\GroceryShopData\obj\Debug\net7.0\GroceryShopData.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\PracticeApp\GroceryShopData\obj\Debug\net7.0\GroceryShopData.AssemblyInfo.cs
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\PracticeApp\GroceryShopData\obj\Debug\net7.0\GroceryShopData.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\PracticeApp\GroceryShopData\obj\Debug\net7.0\GroceryShopData.csproj.CopyComplete
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\PracticeApp\GroceryShopData\obj\Debug\net7.0\GroceryShopData.dll
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\PracticeApp\GroceryShopData\obj\Debug\net7.0\refint\GroceryShopData.dll
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\PracticeApp\GroceryShopData\obj\Debug\net7.0\GroceryShopData.pdb
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\PracticeApp\GroceryShopData\obj\Debug\net7.0\GroceryShopData.genruntimeconfig.cache
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\PracticeApp\GroceryShopData\obj\Debug\net7.0\ref\GroceryShopData.dll

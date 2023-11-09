@@ -1,5 +1,8 @@
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using WPCore.IService;
 using WPData.WBContext;
+using WPModel.Entities;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -17,8 +20,12 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddScoped<IUserRepository, UserRepository>();
 
-   
+builder.Services.AddIdentity<User, IdentityRole>()
+    .AddEntityFrameworkStores<MyDbContext>()
+    .AddDefaultTokenProviders();
+
 
 var app = builder.Build();
 
