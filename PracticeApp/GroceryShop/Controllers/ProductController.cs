@@ -11,10 +11,15 @@ namespace GroceryShop.Controllers
     {
         private readonly IProductRepository _productRepository;
 
-        [HttpPost("CreateProduct")]
-        public IActionResult CreateProduct(ProductDTO productDTO)
+        public ProductController(IProductRepository productRepository)
         {
-            _productRepository.CreateProduct(productDTO);
+            _productRepository = productRepository;
+        }
+
+        [HttpPost("CreateProduct")]
+        public IActionResult CreateProduct(ProductDTO ProductDTO)
+        {
+            _productRepository.CreateProduct(ProductDTO);
             return Ok("Product created Successfully");
         }
 
