@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\AJIDomain\bin\Debug\net7.0\AJIDomain.deps.json
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\AJIDomain\bin\Debug\net7.0\AJIDomain.runtimeconfig.json
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\AJIDomain\bin\Debug\net7.0\AJIDomain.dll
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\AJIDomain\bin\Debug\net7.0\AJIDomain.pdb
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\AJIDomain\obj\Debug\net7.0\AJIDomain.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\AJIDomain\obj\Debug\net7.0\AJIDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\AJIDomain\obj\Debug\net7.0\AJIDomain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\AJIDomain\obj\Debug\net7.0\AJIDomain.AssemblyInfo.cs
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\AJIDomain\obj\Debug\net7.0\AJIDomain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\AJIDomain\obj\Debug\net7.0\AJIDomain.dll
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\AJIDomain\obj\Debug\net7.0\refint\AJIDomain.dll
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\AJIDomain\obj\Debug\net7.0\AJIDomain.pdb
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\AJIDomain\obj\Debug\net7.0\AJIDomain.genruntimeconfig.cache
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\AJIDomain\obj\Debug\net7.0\ref\AJIDomain.dll

@@ -14,6 +14,6 @@ namespace AJIData.Context
         public AJIDbContext(DbContextOptions options) : base(options)
         {
         }
-        public DbSet<Employee>
+        public DbSet<Employee>Employees { get; set; }
     }
 }

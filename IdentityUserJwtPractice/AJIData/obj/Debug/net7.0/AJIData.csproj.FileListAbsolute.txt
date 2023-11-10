@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\AJIData\bin\Debug\net7.0\AJIData.deps.json
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\AJIData\bin\Debug\net7.0\AJIData.runtimeconfig.json
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\AJIData\bin\Debug\net7.0\AJIData.dll
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\AJIData\bin\Debug\net7.0\AJIData.pdb
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\AJIData\bin\Debug\net7.0\AJIDomain.dll
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\AJIData\bin\Debug\net7.0\AJIDomain.pdb
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\AJIData\obj\Debug\net7.0\AJIData.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\AJIData\obj\Debug\net7.0\AJIData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\AJIData\obj\Debug\net7.0\AJIData.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\AJIData\obj\Debug\net7.0\AJIData.AssemblyInfo.cs
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\AJIData\obj\Debug\net7.0\AJIData.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\AJIData\obj\Debug\net7.0\AJIData.csproj.CopyComplete
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\AJIData\obj\Debug\net7.0\AJIData.dll
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\AJIData\obj\Debug\net7.0\refint\AJIData.dll
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\AJIData\obj\Debug\net7.0\AJIData.pdb
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\AJIData\obj\Debug\net7.0\AJIData.genruntimeconfig.cache
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\AJIData\obj\Debug\net7.0\ref\AJIData.dll
