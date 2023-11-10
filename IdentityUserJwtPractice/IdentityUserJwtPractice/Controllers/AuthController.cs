@@ -23,9 +23,13 @@ namespace AJIPractice.Controllers
         }
 
         [HttpGet("Login")]
-        public async Task Login (LoginUser user)
+        public async Task<IActionResult> Login (LoginUser user)
         {
-
+            if (await _authService.Login(user))
+            {
+                return Ok("Login Successful");
+            }
+            return BadRequest();
         }
     }
 }
