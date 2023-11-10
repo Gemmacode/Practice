@@ -36,7 +36,8 @@ namespace AJIPractice.Controllers
             }
             if (await _authService.Login(user))
             {
-                return Ok("Login Successful");
+                var tokenString =  _authService.GenerateTokenString(user);   
+                return Ok(tokenString);
             }
             return BadRequest();
         }

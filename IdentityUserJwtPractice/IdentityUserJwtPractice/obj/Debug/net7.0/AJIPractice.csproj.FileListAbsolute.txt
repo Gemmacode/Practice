@@ -86,3 +86,4 @@ C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\I
 C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\IdentityUserJwtPractice\obj\Debug\net7.0\ref\AJIPractice.dll
 C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\IdentityUserJwtPractice\bin\Debug\net7.0\AJICore.dll
 C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\IdentityUserJwtPractice\bin\Debug\net7.0\AJICore.pdb
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\IdentityUserJwtPractice\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

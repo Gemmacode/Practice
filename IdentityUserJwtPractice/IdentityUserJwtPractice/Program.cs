@@ -28,8 +28,8 @@ builder.Services.AddAuthentication(options =>
         ValidateAudience = true,
         RequireExpirationTime = true,
         ValidateIssuerSigningKey = true,
-        ValidIssuer = "",
-        ValidAudience = ""
+        ValidIssuer = builder.Configuration.GetSection("Jwt:Issuer").Value,
+        ValidAudience = builder.Configuration.GetSection("Jwt:Audience").Value,
     };
 });
 // Add services to the container.
