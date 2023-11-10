@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "c1zMKL3sdcSEFZb99NDKWifMHqde21918v9dDtMfSFFITgi7XyURme+O7NeSG3vhSny+kjQdJLQtl2qs/4A3Pg==",
+  "dgSpecHash": "p6bcRUt8fRqOsnGg64WLD3KZ0piilWYhDCHyoC8nBh1E6HFisYsNln3norZQlfWmKad74prBnvXJfIPJeL8qpA==",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\Desktop\\Gemma Practice Projects\\Practice\\IdentityUserJwtPractice\\AJIData\\AJIData.csproj",
   "expectedPackageFiles": [
@@ -11,6 +11,7 @@
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.authentication.cookies\\2.2.0\\microsoft.aspnetcore.authentication.cookies.2.2.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.13\\microsoft.aspnetcore.authentication.jwtbearer.7.0.13.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.13\\microsoft.aspnetcore.cryptography.internal.7.0.13.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.13\\microsoft.aspnetcore.cryptography.keyderivation.7.0.13.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.dataprotection\\2.2.0\\microsoft.aspnetcore.dataprotection.2.2.0.nupkg.sha512",

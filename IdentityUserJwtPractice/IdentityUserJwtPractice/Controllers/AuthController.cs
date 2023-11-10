@@ -27,7 +27,7 @@ namespace AJIPractice.Controllers
             
         }
 
-        [HttpGet("Login")]
+        [HttpPost("Login")]
         public async Task<IActionResult> Login (LoginUser user)
         {
             if(!ModelState.IsValid)
