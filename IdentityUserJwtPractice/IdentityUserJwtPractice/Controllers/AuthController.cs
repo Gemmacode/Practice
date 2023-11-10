@@ -16,15 +16,24 @@ namespace AJIPractice.Controllers
             _authService = authService;
         }
 
-        [HttpPost("RegisterUser")]
-        public async Task<bool>RegisterUser(LoginUser user)
+        [HttpPost("Register")]
+        public async Task<IActionResult>RegisterUser(LoginUser user)
         {
-            return await _authService.RegisterUser(user);
+            if(await _authService.RegisterUser(user))
+            {
+                return Ok("Registered succeessful");
+            }
+            return BadRequest();
+            
         }
 
         [HttpGet("Login")]
         public async Task<IActionResult> Login (LoginUser user)
         {
+            if(!ModelState.IsValid)
+            {
+                return BadRequest();
+            }
             if (await _authService.Login(user))
             {
                 return Ok("Login Successful");
