@@ -24,7 +24,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\AJICore\AJICore.csproj" />
     <ProjectReference Include="..\AJIData\AJIData.csproj" />
+    <ProjectReference Include="..\AJIDomain\AJIDomain.csproj" />
   </ItemGroup>
 
 </Project>

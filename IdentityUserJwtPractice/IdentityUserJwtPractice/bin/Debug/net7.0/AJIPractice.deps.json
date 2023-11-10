@@ -8,7 +8,9 @@
     ".NETCoreApp,Version=v7.0": {
       "AJIPractice/1.0.0": {
         "dependencies": {
+          "AJICore": "1.0.0",
           "AJIData": "1.0.0",
+          "AJIDomain": "1.0.0",
           "Microsoft.AspNetCore.Identity": "2.2.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "7.0.13",
           "Microsoft.AspNetCore.OpenApi": "7.0.9",
@@ -824,6 +826,19 @@
           }
         }
       },
+      "AJICore/1.0.0": {
+        "dependencies": {
+          "AJIData": "1.0.0",
+          "AJIDomain": "1.0.0",
+          "Microsoft.AspNetCore.Identity": "2.2.0",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "7.0.13",
+          "Microsoft.EntityFrameworkCore": "7.0.13",
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.13"
+        },
+        "runtime": {
+          "AJICore.dll": {}
+        }
+      },
       "AJIData/1.0.0": {
         "dependencies": {
           "AJIDomain": "1.0.0",
@@ -1519,6 +1534,11 @@
       "sha512": "sha512-IXoJOXIqc39AIe+CIR7koBtRGMiCt/LPM3lI+PELtDIy9XdyeSrwXFdWV9dzJ2Awl0paLWUaknLxFQ5HpHZUog==",
       "path": "system.windows.extensions/6.0.0",
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
+    },
+    "AJICore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "AJIData/1.0.0": {
       "type": "project",

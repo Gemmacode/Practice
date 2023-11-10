@@ -84,3 +84,5 @@ C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\I
 C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\IdentityUserJwtPractice\obj\Debug\net7.0\AJIPractice.pdb
 C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\IdentityUserJwtPractice\obj\Debug\net7.0\AJIPractice.genruntimeconfig.cache
 C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\IdentityUserJwtPractice\obj\Debug\net7.0\ref\AJIPractice.dll
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\IdentityUserJwtPractice\bin\Debug\net7.0\AJICore.dll
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\IdentityUserJwtPractice\bin\Debug\net7.0\AJICore.pdb

@@ -12,3 +12,8 @@ C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\A
 C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\AJICore\obj\Debug\net7.0\AJICore.pdb
 C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\AJICore\obj\Debug\net7.0\AJICore.genruntimeconfig.cache
 C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\AJICore\obj\Debug\net7.0\ref\AJICore.dll
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\AJICore\bin\Debug\net7.0\AJIData.dll
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\AJICore\bin\Debug\net7.0\AJIDomain.dll
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\AJICore\bin\Debug\net7.0\AJIData.pdb
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\AJICore\bin\Debug\net7.0\AJIDomain.pdb
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\IdentityUserJwtPractice\AJICore\obj\Debug\net7.0\AJICore.csproj.CopyComplete

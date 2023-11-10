@@ -1541,6 +1541,39 @@
             "rid": "win"
           }
         }
+      },
+      "AJIData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "AJIDomain": "1.0.0",
+          "Microsoft.AspNetCore.Identity": "2.2.0",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "7.0.13",
+          "Microsoft.EntityFrameworkCore": "7.0.13",
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.13"
+        },
+        "compile": {
+          "bin/placeholder/AJIData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AJIData.dll": {}
+        }
+      },
+      "AJIDomain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity": "2.2.0",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "7.0.13",
+          "Microsoft.EntityFrameworkCore": "7.0.13",
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.13"
+        },
+        "compile": {
+          "bin/placeholder/AJIDomain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AJIDomain.dll": {}
+        }
       }
     }
   },
@@ -3824,10 +3857,22 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "AJIData/1.0.0": {
+      "type": "project",
+      "path": "../AJIData/AJIData.csproj",
+      "msbuildProject": "../AJIData/AJIData.csproj"
+    },
+    "AJIDomain/1.0.0": {
+      "type": "project",
+      "path": "../AJIDomain/AJIDomain.csproj",
+      "msbuildProject": "../AJIDomain/AJIDomain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "AJIData >= 1.0.0",
+      "AJIDomain >= 1.0.0",
       "Microsoft.AspNetCore.Identity >= 2.2.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 7.0.13",
       "Microsoft.EntityFrameworkCore >= 7.0.13",
@@ -3862,7 +3907,14 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\user\\Desktop\\Gemma Practice Projects\\Practice\\IdentityUserJwtPractice\\AJIData\\AJIData.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\Gemma Practice Projects\\Practice\\IdentityUserJwtPractice\\AJIData\\AJIData.csproj"
+            },
+            "C:\\Users\\user\\Desktop\\Gemma Practice Projects\\Practice\\IdentityUserJwtPractice\\AJIDomain\\AJIDomain.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\Gemma Practice Projects\\Practice\\IdentityUserJwtPractice\\AJIDomain\\AJIDomain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

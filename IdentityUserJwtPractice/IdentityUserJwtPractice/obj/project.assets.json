@@ -1648,6 +1648,24 @@
           }
         }
       },
+      "AJICore/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "AJIData": "1.0.0",
+          "AJIDomain": "1.0.0",
+          "Microsoft.AspNetCore.Identity": "2.2.0",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "7.0.13",
+          "Microsoft.EntityFrameworkCore": "7.0.13",
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.13"
+        },
+        "compile": {
+          "bin/placeholder/AJICore.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AJICore.dll": {}
+        }
+      },
       "AJIData/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -4314,6 +4332,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "AJICore/1.0.0": {
+      "type": "project",
+      "path": "../AJICore/AJICore.csproj",
+      "msbuildProject": "../AJICore/AJICore.csproj"
+    },
     "AJIData/1.0.0": {
       "type": "project",
       "path": "../AJIData/AJIData.csproj",
@@ -4327,7 +4350,9 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "AJICore >= 1.0.0",
       "AJIData >= 1.0.0",
+      "AJIDomain >= 1.0.0",
       "Microsoft.AspNetCore.Identity >= 2.2.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 7.0.13",
       "Microsoft.AspNetCore.OpenApi >= 7.0.9",
@@ -4366,8 +4391,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+            "C:\\Users\\user\\Desktop\\Gemma Practice Projects\\Practice\\IdentityUserJwtPractice\\AJICore\\AJICore.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\Gemma Practice Projects\\Practice\\IdentityUserJwtPractice\\AJICore\\AJICore.csproj"
+            },
             "C:\\Users\\user\\Desktop\\Gemma Practice Projects\\Practice\\IdentityUserJwtPractice\\AJIData\\AJIData.csproj": {
               "projectPath": "C:\\Users\\user\\Desktop\\Gemma Practice Projects\\Practice\\IdentityUserJwtPractice\\AJIData\\AJIData.csproj"
+            },
+            "C:\\Users\\user\\Desktop\\Gemma Practice Projects\\Practice\\IdentityUserJwtPractice\\AJIDomain\\AJIDomain.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\Gemma Practice Projects\\Practice\\IdentityUserJwtPractice\\AJIDomain\\AJIDomain.csproj"
             }
           }
         }

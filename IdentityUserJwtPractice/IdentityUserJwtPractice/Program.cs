@@ -1,4 +1,6 @@
+using AJICore.Services;
 using AJIData.Context;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -6,7 +8,14 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<AJIDbContext>(options => options.
 UseSqlServer(builder.Configuration.GetConnectionString("conn")));
 
+builder.Services.AddIdentity<IdentityUser, IdentityRole>(options =>
+{
+    options.Password.RequiredLength = 5;
+}).AddEntityFrameworkStores<AJIDbContext>()
+.AddDefaultTokenProviders(); 
 // Add services to the container.
+
+builder.Services.AddTransient<IAuthService, AuthService>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
