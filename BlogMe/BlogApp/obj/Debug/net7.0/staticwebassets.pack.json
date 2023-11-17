@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\user\\Desktop\\Gemma Practice Projects\\Practice\\BlogMe\\BlogApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BlogApp.bundle.scp.css",
-      "PackagePath": "staticwebassets\\BlogApp.bundle.scp.css"
+      "Id": "C:\\Users\\user\\Desktop\\Gemma Practice Projects\\Practice\\BlogMe\\BlogApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Blog.App.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Blog.App.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\user\\Desktop\\Gemma Practice Projects\\Practice\\BlogMe\\BlogApp\\wwwroot\\css\\site.css",
@@ -245,20 +245,20 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BlogApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Blog.App.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BlogApp.props",
-      "PackagePath": "build\\BlogApp.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Blog.App.props",
+      "PackagePath": "build\\Blog.App.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BlogApp.props",
-      "PackagePath": "buildMultiTargeting\\BlogApp.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Blog.App.props",
+      "PackagePath": "buildMultiTargeting\\Blog.App.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BlogApp.props",
-      "PackagePath": "buildTransitive\\BlogApp.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Blog.App.props",
+      "PackagePath": "buildTransitive\\Blog.App.props"
     }
   ],
   "ElementsToRemove": []

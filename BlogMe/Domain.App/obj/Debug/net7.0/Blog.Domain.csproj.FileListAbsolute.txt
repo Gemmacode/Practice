@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\BlogMe\Domain.App\bin\Debug\net7.0\Blog.Domain.deps.json
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\BlogMe\Domain.App\bin\Debug\net7.0\Blog.Domain.runtimeconfig.json
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\BlogMe\Domain.App\bin\Debug\net7.0\Blog.Domain.dll
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\BlogMe\Domain.App\bin\Debug\net7.0\Blog.Domain.pdb
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\BlogMe\Domain.App\obj\Debug\net7.0\Blog.Domain.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\BlogMe\Domain.App\obj\Debug\net7.0\Blog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\BlogMe\Domain.App\obj\Debug\net7.0\Blog.Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\BlogMe\Domain.App\obj\Debug\net7.0\Blog.Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\BlogMe\Domain.App\obj\Debug\net7.0\Blog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\BlogMe\Domain.App\obj\Debug\net7.0\Blog.Domain.dll
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\BlogMe\Domain.App\obj\Debug\net7.0\refint\Blog.Domain.dll
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\BlogMe\Domain.App\obj\Debug\net7.0\Blog.Domain.pdb
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\BlogMe\Domain.App\obj\Debug\net7.0\Blog.Domain.genruntimeconfig.cache
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\BlogMe\Domain.App\obj\Debug\net7.0\ref\Blog.Domain.dll

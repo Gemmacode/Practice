@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\BlogMe\Blog.Data\bin\Debug\net7.0\Blog.Data.deps.json
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\BlogMe\Blog.Data\bin\Debug\net7.0\Blog.Data.runtimeconfig.json
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\BlogMe\Blog.Data\bin\Debug\net7.0\Blog.Data.dll
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\BlogMe\Blog.Data\bin\Debug\net7.0\Blog.Data.pdb
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\BlogMe\Blog.Data\bin\Debug\net7.0\Blog.Domain.dll
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\BlogMe\Blog.Data\bin\Debug\net7.0\Blog.Domain.pdb
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\BlogMe\Blog.Data\obj\Debug\net7.0\Blog.Data.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\BlogMe\Blog.Data\obj\Debug\net7.0\Blog.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\BlogMe\Blog.Data\obj\Debug\net7.0\Blog.Data.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\BlogMe\Blog.Data\obj\Debug\net7.0\Blog.Data.AssemblyInfo.cs
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\BlogMe\Blog.Data\obj\Debug\net7.0\Blog.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\BlogMe\Blog.Data\obj\Debug\net7.0\Blog.Data.csproj.CopyComplete
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\BlogMe\Blog.Data\obj\Debug\net7.0\Blog.Data.dll
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\BlogMe\Blog.Data\obj\Debug\net7.0\refint\Blog.Data.dll
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\BlogMe\Blog.Data\obj\Debug\net7.0\Blog.Data.pdb
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\BlogMe\Blog.Data\obj\Debug\net7.0\Blog.Data.genruntimeconfig.cache
+C:\Users\user\Desktop\Gemma Practice Projects\Practice\BlogMe\Blog.Data\obj\Debug\net7.0\ref\Blog.Data.dll
