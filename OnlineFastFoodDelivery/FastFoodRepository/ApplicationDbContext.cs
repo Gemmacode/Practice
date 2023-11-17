@@ -15,6 +15,6 @@ namespace FastFood.Repository
         {
 
         }
-        public DbSet<ApplicationUser>
+       
     }
 }
